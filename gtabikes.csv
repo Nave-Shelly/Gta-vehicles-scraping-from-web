@@ -1,0 +1,14 @@
+,Vehicle,Money $,Mass (kg),Turnmass (kg),Wheelie Angle,Stoppie Angle,Speed (km),Drag,Gears,Drivetype,Engine Type
+0,PCJ-600,10000,500,161.7,No Stat,0.6,190,50,5,RWD,Petrol
+1,Faggio,10000,350,119.6,No Stat,0.5,190,30,3,RWD,Petrol
+2,Sanchez,10000,500,195,No Stat,0.5,190,50,5,RWD,Petrol
+3,FCR-900,10000,500,200,0.6,No Stat,190,50,5,RWD,Petrol
+4,NRG-500,10000,400,200,0.6,No Stat,190,60,5,RWD,Petrol
+5,HPV1000,10000,500,240,0.5,No Stat,190,50,5,RWD,Petrol
+6,BF-400,10000,500,200,No Stat,0.5,190,50,5,RWD,Petrol
+7,Wayfarer,10000,800,600,No Stat,0.3,190,40,4,RWD,Petrol
+8,Quad,9000,400,300,No Stat,0.5,160,25,4,4WD,Petrol
+9,BMX,10000,100,39,0.5,No Stat,120,18,5,RWD,Pedal Power
+10,Bike,10000,100,39,No Stat,0.5,120,18,5,RWD,Pedal Power
+11,Mountain Bike,10000,100,60,0.5,No Stat,140,25,4,RWD,Pedal Power
+12,Freeway,10000,800,403.3,0.3,No Stat,190,40,4,RWD,Petrol

@@ -1,0 +1,12 @@
+,Vehicle,Money $,Mass (kg),Turnmass (kg),Speed (km),Gears,Engine Type
+0,Predator,40000,2200,29333.3,190,5,Petrol
+1,Speeder,30000,2200,20210.7,190,5,Petrol
+2,Reefer,25000,5000,25520.8,190,5,Petrol
+3,Rio,70000,3000,17312.5,190,5,Petrol
+4,Squalo,60000,2200,29333.3,190,5,Petrol
+5,Tropic,73000,2200,29333.3,190,5,Petrol
+6,Coastguard,10000,1200,6525,190,5,Petrol
+7,Dinghy,5000,800,1483.3,190,5,Petrol
+8,Marquis,99000,5000,155540.8,190,5,Petrol
+9,Jetmax,48000,3000,40000,190,5,Petrol
+10,Launch,30000,2200,20210.7,190,5,Petrol
