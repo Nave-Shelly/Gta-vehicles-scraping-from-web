@@ -24,7 +24,7 @@ for t in tr[1:143]:
 		dataCars+=[[Names,Money,Mass,tm,sp,drag,gears,dt,eg]]
 		df=pd.DataFrame(dataCars,columns=['Vehicle','Money $','Mass (kg)','Turnmass (kg)','Speed (km)','Drag','Gears','Drivetype','Engine Type'])
 		df.to_csv('gtacars.csv')
-	#yes
+	
 
 #bikes
 dataBikes=[]
@@ -47,7 +47,7 @@ for t in tr[144:157]:
 		df.to_csv('gtabikes.csv')
 
 
-	#yes
+	
 
 #planes
 dataPlanes=[]
@@ -85,4 +85,3 @@ for t in tr[183:194]:
 		df=pd.DataFrame(dataBoats,columns=['Vehicle','Money $','Mass (kg)','Turnmass (kg)','Speed (km)','Gears','Engine Type'])
 		df.to_csv('gtaboats.csv')
 
-	#yes
